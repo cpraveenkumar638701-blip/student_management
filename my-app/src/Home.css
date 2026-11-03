@@ -1,0 +1,70 @@
+#Home {
+ text-align: center;
+}
+ #HOME1{
+  display: flex;
+}
+#img1 img{
+  width: 500px;
+  height:500px;
+  margin-left: 50px;
+}
+#HOME1 p{
+
+  width: 500px;
+  height: 100vh;
+  
+}
+#HOME,#H1{
+margin-left: 100px;
+  gap: 10px;
+}
+
+#A1{
+  width:500px;
+  height: 100px;
+  border-radius: 10px;
+  background-color: rgb(180, 111, 21);
+}
+#A1 button{
+  width:100px ;
+  height: 30px;
+  border-radius: 10px;
+  background-color: rgb(40, 69, 235);
+}
+#H1,#A1{
+  margin-top: 10px; 
+}
+
+#b2{
+  width:500px;
+  height: 100px;
+  border-radius: 10px;
+  background-color: rgb(180, 111, 21);
+}
+#b2 button{
+  width:100px ;
+  height: 30px;
+  border-radius: 10px;
+  background-color: rgb(40, 69, 235);
+}
+#H1,#b2{
+  margin-top: 10px; 
+}
+
+#D4{
+  width:500px;
+  height: 100px;
+  border-radius: 10px;
+  background-color: rgb(180, 111, 21);
+}
+#D4 button{
+  width:100px ;
+  height: 30px;
+  border-radius: 10px;
+  background-color: rgb(40, 69, 235);
+}
+#H1,#D4{
+  margin-top: 10px; 
+}
+
